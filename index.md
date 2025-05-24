@@ -15,6 +15,7 @@ Consistió en un repaso de lo visto en programación 1, trabajando temas como ve
 - [Ejercicio 4](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/EJERCICIO%204.py)
 - [Ejercicio 5](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/EJERCICIO%205.py)
 - [Ejercicio 6](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/EJERCICIO%206.py)
+  
 
   ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea1.jpeg)
 
@@ -27,6 +28,7 @@ Aquí se vieron métodos numéricos para el cálculo de raíces. Abarcamos los m
 - [Método de Newton-Raphson](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/newton%20rapson.py)
 - [Método secante](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/secante.py)
 - [Método Bisección](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Biseccion.py)
+
 
   ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea2.jpg)
 
@@ -41,56 +43,47 @@ Aquí se vieron métodos numéricos para el cálculo de raíces. Abarcamos los m
 
   ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea3.jpg)
 
+
 ## Parcial 2
 
 **Tarea 4:**
 
 Aquí se vieron métodos numéricos para la solución de sistemas de ecuaciones lineales. Abarcamos los métodos de Gauss-Jordan, matriz inversa, Cramer, descomposición de LU y descomposición de Cholesky. A continuación se muestran los ejercicios:
 
-- [Gauss Jordan1](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Gauss%20Jordan%201%20sistema%20ec%20lineales.py)
-- [Gauss Jordan2](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Gauss%20jordan%202%20sist%20ecuaciones.py)
-- [Gauss Jordan3](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Gauss%20jordan%203%20sist%20ec.py)
-- [Matriz Inversa](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Tarea%20Matriz.py)
-- [Crammer](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/M%C3%A9todo%20de%20Birge-Vieta.py)
-- [Descomposición de LU](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/M%C3%A9todo%20de%20Birge-Vieta.py)
-- [Descomposición de Cholesky](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/M%C3%A9todo%20de%20Birge-Vieta.py)
+- [Método Gauss Jordan1](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Gauss%20Jordan%201%20sistema%20ec%20lineales.py)
+- [Método Gauss Jordan2](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Gauss%20jordan%202%20sist%20ecuaciones.py)
+- [Método Gauss Jordan3](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Gauss%20jordan%203%20sist%20ec.py)
+- [Método Matriz Inversa](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Tarea%20Matriz.py)
+- [Método Jacobi](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Metodo%20de%20Jacobi.py)
+- [Descomposición de Gauss-Seidel](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Metodo%20de%20gauss%20seidel.py)
 
+  
+  ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea4.png)
 
-Después, se muestra otro sistema de ecuaciones lineales, pero ahora a resolver con el método de Jacobi y Gauss-Seidel, por ende, se dividió esta parte en dos códigos, uno por método:
-
-- Método de Jacobi       [click](https://github.com/Roxanne721/Programaci-n-Num-rica/blob/main/tarea4_2.py)
-- Método de Gauss-Seidel [click](https://github.com/Roxanne721/Programaci-n-Num-rica/blob/main/tarea4_2_2.py)
 
 **Tarea 5:**
 
-El tema de esta tarea es integración y diferenciación numérica, en donde se analizaron diferentes tipos de integración, desde la forma analítica, así como el método del trapecio simple y múltiple, además de el método de Simpson 1/3 y 6/8. En el siguiente código se muestran todos los métodos implementados en 3 diferentes funciones.
+Aquí se vieron métodos para integración y derivación. Abarcamos los métodos del trapecio simple, trapecio múltiple, Simpson 1/3 y 6/8 para integración, y métodos de diferenciación y forma analítica para derivación. A continuación se muestran los ejercicios. 
 
-- Integración [click](https://github.com/Roxanne721/Programaci-n-Num-rica/blob/main/IntegracionT5.py)
+- [Tarea Integrales](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Tarea%20integrales.py)
+- [Tarea Integrales](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Tarea%20DERIVADAS.py)
 
-Además de esto, también se consideraron diferentes métodos para la derivación númerica de solo una función; es por eso que en el siguiente código se pueden ver todos los métodos utilizados en dicha función, los cuales son: la forma analítica, diferenciación hacia adelante hacia atrás y centrada.
 
-- Derivación [click](https://github.com/Roxanne721/Programaci-n-Num-rica/blob/main/DerivacionT5.py)
+  ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea5.jpeg)
 
-![](https://gifdb.com/images/high/buenos-dias-snoopy-414-x-498-gif-jxlnswx51fka45ue.gif)
 
 ## Parcial 3
 
 **Tarea 6:**
 
-Como última tarea, y con base en los temas de Interpolación y Regresión Lineal, se nos pide calcular cierto valor considerando la tabla de datos dada, y utilizando interpolación lineal, cuadrática y de Newton; cada una descrita en los siguientes códigos:
+Aquí se vieron métodos de Interpolación y Regresión Lineal y cuadrática de Newton. A continuación se muestran los ejercicios:
 
-- Interpolación Lineal     [click](https://github.com/Roxanne721/Programaci-n-Num-rica/blob/main/interpolacion_lineal.py)
-- Interpolación Cuadratica [click](https://github.com/Roxanne721/Programaci-n-Num-rica/blob/main/interpolacion_cuadr.py)
-- Interpolación de Newton  [click](https://github.com/Roxanne721/Programaci-n-Num-rica/blob/main/interpolacion_newton.py)
-
-Y, para el tema de Regresión Lineal, se pidió hacer un programa en el que, utilizando una serie de datos proporcionados por medio de un link, obtener el resultado del modelo de regresión generado en el código siguiente:
-
-- Regresión Lineal [click](https://github.com/Roxanne721/Programaci-n-Num-rica/blob/main/regresion.py)
-
-![](https://archive.org/download/GifsAnimatedSnoopyRockl/tumblr_ldrbbxmlVl1qe8ey8o1_500.gif)
+- [Interpolación cuadráticas](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Interpolacion_cuadr%C3%A1tica.py)
+- [Interpolación lineal](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/interpolacion_lineal.py)
+- [Interpolación Newton](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/Interpolacion_Newton.py)
 
 
-## Finalmente...
-Estos son todos los programas que se hicieron a lo largo del curso de Programación Numérica.
 
-![](https://i.imgur.com/3K9685W.gif)
+ ![](https://github.com/GerardoSouberbielle/Proyecto-programacion-2/blob/main/imagentarea6.jpeg)
+
+
