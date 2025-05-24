@@ -1,0 +1,16 @@
+title: Portafolio de Proyectos - [Gerardo Souberbielle]
+description: Explora una colección de mis trabajos académicos realizados durante del semestre
+url: "https://gerardosouberbielle.github.io/Proyecto-programacion-2/" # Ejemplo: https://juanperez.github.io/mi-portafolio/
+repository: [gerardosouberbielle]/[Proyecto-programacion-2] # Ejemplo: juanperez/mi-portafolio
+
+theme: minimal # Un tema limpio y elegante. Puedes probar 'architect' o 'cayman' si quieres.
+
+collections:
+  categorias:
+    output: true
+    permalink: /categorias/:name/
+
+author: Luis Gerardo Souberbielle
+email: A371987@uaslp.alumnos.mx
+
+Agrega _config.yml y configura tema
